@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+dev/The Boids/Assets/TextMesh Pro/
+dev/The Boids/Library/
+dev/The Boids/Logs/
+dev/The Boids/obj/
+dev/The Boids/Temp/
